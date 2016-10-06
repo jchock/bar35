@@ -1,0 +1,29 @@
+body {
+  background: url('bar.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 50px;
+}
+
+.ui.borderless.inverted.topmenu.menu {
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+.item {
+  font-size: 16px !important;
+  font-weight: bold !important;
+}
+
+.ui.centered.image {
+  padding-top: 50px;
+  width: 400px;
+}
+
+.ui.second.grid {
+  padding-top: 100px;
+}
+
+.ui.header {
+  color: white;
+}
